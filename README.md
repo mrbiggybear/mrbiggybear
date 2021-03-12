@@ -1,15 +1,8 @@
-### Call me BJ...🐻
+### Call me mrbiggybear...🐻
 
 I am finally able to work on my project backlog! watch repos for updates.
 
-Devices I am working with:
-* NodeMCU [esp8266]
-* Wemo D1 [esp8266]
-* ESP-WROOM-32 [esp32]
-* Aruino Uno
-* Pro micro
-* Raspberry Pi Zero W
-* Raspberry Pi 3 B+
+Devices I am working with... they are mine!🍯
 <!--
 **mrbiggybear/mrbiggybear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
