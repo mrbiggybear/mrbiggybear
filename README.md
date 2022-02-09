@@ -1,5 +1,5 @@
 > Welcome to 
 
-# Billy J Landis Jr's 
+# BJ Landis's 
 
 __GitHub Profile__
